@@ -1,4 +1,5 @@
 # 使い方
+0. jQueryを読み込む
 0. ファイルを読み込む。例：`<script src="commonSlider.js"></script>`
 0. HTMLを書く（※1）
 0. クラスをnewする（※2）
